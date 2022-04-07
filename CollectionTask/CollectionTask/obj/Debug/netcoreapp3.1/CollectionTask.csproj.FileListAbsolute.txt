@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\CollectionTask\CollectionTask\bin\Debug\netcoreapp3.1\CollectionTask.exe
+C:\Users\HP\source\repos\CollectionTask\CollectionTask\bin\Debug\netcoreapp3.1\CollectionTask.deps.json
+C:\Users\HP\source\repos\CollectionTask\CollectionTask\bin\Debug\netcoreapp3.1\CollectionTask.runtimeconfig.json
+C:\Users\HP\source\repos\CollectionTask\CollectionTask\bin\Debug\netcoreapp3.1\CollectionTask.runtimeconfig.dev.json
+C:\Users\HP\source\repos\CollectionTask\CollectionTask\bin\Debug\netcoreapp3.1\CollectionTask.dll
+C:\Users\HP\source\repos\CollectionTask\CollectionTask\bin\Debug\netcoreapp3.1\CollectionTask.pdb
+C:\Users\HP\source\repos\CollectionTask\CollectionTask\obj\Debug\netcoreapp3.1\CollectionTask.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CollectionTask\CollectionTask\obj\Debug\netcoreapp3.1\CollectionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CollectionTask\CollectionTask\obj\Debug\netcoreapp3.1\CollectionTask.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CollectionTask\CollectionTask\obj\Debug\netcoreapp3.1\CollectionTask.AssemblyInfo.cs
+C:\Users\HP\source\repos\CollectionTask\CollectionTask\obj\Debug\netcoreapp3.1\CollectionTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CollectionTask\CollectionTask\obj\Debug\netcoreapp3.1\CollectionTask.dll
+C:\Users\HP\source\repos\CollectionTask\CollectionTask\obj\Debug\netcoreapp3.1\CollectionTask.pdb
+C:\Users\HP\source\repos\CollectionTask\CollectionTask\obj\Debug\netcoreapp3.1\CollectionTask.genruntimeconfig.cache
